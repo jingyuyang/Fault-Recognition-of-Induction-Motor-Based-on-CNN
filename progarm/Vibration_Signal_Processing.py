@@ -57,7 +57,7 @@ def DataProcess(originalPath,targetPath,preFix,num,m):
 
 #主函数
 if __name__ == "__main__":
-  originalPath = r"G:\杨景宇\毕设资料\驱动电机\感应电机\原始数据\Fault simulator"
+  originalPath = r"E:\Spyder\CNN-Vibration-Signal-Eight-Classification\data\Fault simulator"
   targetPath = r"E:\Spyder\CNN-Vibration signal eight classification\data\Lab原始振动信号-0"
   if not os.path.exists(targetPath):
     os.makedirs(targetPath)
