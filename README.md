@@ -1,0 +1,1 @@
+# Fault-Recognition-of-Induction-Motor-Based-on-CNN
